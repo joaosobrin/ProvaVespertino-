@@ -1,4 +1,4 @@
-.App { 
+.App {
   text-align: center;
 }
 
@@ -39,4 +39,12 @@
 
 button {
   font-size: calc(10px + 2vmin);
-} 
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+
+    width: 220px;
+    padding-left: 10px;
+}
